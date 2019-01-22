@@ -1,0 +1,14 @@
+{
+  "firstName": "Rakan",
+  "lastName": "Al Nemri",
+  "nickName": "Rakan",
+  "privateName": false,
+  "picture": "images/rakanalnemri.jpg",
+  "privatePicture": false,
+  "email": "rakan.alnemri@mail.utoronto.ca",
+  "privateEmail": false,
+  "github": "rakanalnemri",
+  "privateGithub": false,
+  "superpower" : "fast reader",
+  "academicinterests": "Anything that gives me an A"
+}
